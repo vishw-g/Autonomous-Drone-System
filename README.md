@@ -1,5 +1,3 @@
-# Autonomous-Drone-System
-
 # STM32F411CE INAV Flight Controller
 
 ![INAV](img/Firmware-INAV-blue.svg)
