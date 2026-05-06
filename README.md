@@ -13,7 +13,7 @@ This controller supports multiple IMU sensors and provides essential interfaces 
 
 # ⚠️ Firmware Version Notice
 
-## INAV 9.0.1 Update
+## INAV 9.0.1 Update Yet to be relaised
 
 This documentation is written for **INAV 9.0.1 firmware**.
 
